@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "hrize",
+  "version": "0.1.0",
+  "description": "HRIZE, your evidence-backed career agent: find jobs that fit your proven experience, see why, draft applications with your own AI, practise interviews and your pitch, and track your search. You review and approve everything in HRIZE.",
+  "author": {
+    "name": "HRIZE",
+    "url": "https://staging.hrize.me"
+  },
+  "homepage": "https://staging.hrize.me",
+  "license": "MIT",
+  "keywords": [
+    "career",
+    "jobs",
+    "job-search",
+    "cv",
+    "resume",
+    "applications",
+    "interview",
+    "hrize"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hrize": {
+      "type": "http",
+      "url": "https://staging.hrize.me/api/mcp"
+    }
+  }
+}
