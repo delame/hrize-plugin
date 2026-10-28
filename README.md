@@ -39,6 +39,7 @@ assistant, so they use your subscription, not HRIZE credits.
 
 - **Your account:** HRIZE uses only your own data. The assistant sees what you allow when you sign in, and you can disconnect it any time under Integrations in HRIZE.
 - **Approvals:** HRIZE never submits applications, sends messages or answers screening questions for you. Everything is a draft you approve in the app.
+- **Privacy policy:** https://staging.hrize.me/privacy
 - **Learn more:** https://staging.hrize.me
 
 This repository is generated from the HRIZE app. Please report issues in HRIZE (More, then Report a bug).
