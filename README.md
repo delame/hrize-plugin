@@ -16,6 +16,7 @@ assistant, so they use your subscription, not HRIZE credits.
 | `hrize-draft-application` | Draft my application with my own AI. Use when the user wants to apply for a job in HRIZE: a tailored CV, cover letter, outreach messages or screening answers. |
 | `hrize-mock-interview` | Run a mock interview for a job. Use when the user wants to practise an interview for one of their HRIZE jobs. |
 | `hrize-pitch-coach` | Coach my elevator pitch. Use when the user wants help with their elevator pitch or how to introduce themselves to an employer. |
+| `hrize-search-check-in` | How is my job search going?. Use when the user asks how their job search or applications are going, what happened this week, or what to do next. |
 
 - **MCP server:** `https://staging.hrize.me/api/mcp` (Streamable HTTP, OAuth sign-in to your HRIZE account).
 - **Formats:**

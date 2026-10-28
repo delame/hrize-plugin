@@ -22,7 +22,7 @@ HRIZE is the user's evidence-backed career agent.
 - **Finding jobs:** list_jobs, get_job_analysis, shortlist_job, reject_job.
 - **Applying:** the hrize-draft-application skill (the package is written on the user's own AI).
 - **Preparing:** the hrize-mock-interview and hrize-pitch-coach skills.
-- **Where things stand:** list_applications, get_journey, get_talent_tree, get_usage.
+- **Where things stand:** the hrize-search-check-in skill (get_report), list_applications, get_journey, get_talent_tree, get_usage.
 - **Help from people:** find_helpers.
 
 ## Rules
