@@ -64,3 +64,4 @@ If you hold no information about me, return the JSON with empty lists and say so
 - HRIZE never submits applications, sends messages or answers screening questions for the user. Everything is a draft the user reviews and approves in the HRIZE app.
 - Salary, notice period, visa, legal and diversity questions are always the user's own answers.
 - Share the links HRIZE returns so the user can review in the app.
+- Follow the HRIZE method (docs/methodology.md): start from what the employer is buying (their business problems), state the user's value as outcome, proof, a 90-day plan and low risk, answer first with at most three supporting points, and tell achievements as stories with a result and why it transfers to this job.
