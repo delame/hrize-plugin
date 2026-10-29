@@ -17,6 +17,7 @@ assistant, so they use your subscription, not HRIZE credits.
 | `hrize-mock-interview` | Run a mock interview for a job. Use when the user wants to practise an interview for one of their HRIZE jobs. |
 | `hrize-pitch-coach` | Coach my elevator pitch. Use when the user wants help with their elevator pitch or how to introduce themselves to an employer. |
 | `hrize-search-check-in` | How is my job search going?. Use when the user asks how their job search or applications are going, what happened this week, or what to do next. |
+| `hrize-craft-my-job` | Craft my job. Use when the user wants to grow, learn or get more from their current job without changing employer, or asks what to learn next. |
 
 - **MCP server:** `https://staging.hrize.me/api/mcp` (Streamable HTTP, OAuth sign-in to your HRIZE account).
 - **Formats:**
@@ -33,7 +34,8 @@ assistant, so they use your subscription, not HRIZE credits.
   ```
 
 - **Codex, Cursor, VS Code and GitHub Copilot:** add this repository as an Agent Plugins source in the app's plugin settings.
-- **Claude and ChatGPT (web, desktop and mobile):** add a custom connector with the URL `https://staging.hrize.me/api/mcp`. For the skills in Claude, upload a skill folder from `skills/` under Settings, then Capabilities.
+- **ChatGPT:** download the .zip from the latest release, then in ChatGPT open Plugins, choose +, and upload it under New Plugin. Or add a custom MCP server with the URL `https://staging.hrize.me/api/mcp`.
+- **Claude (web, desktop and mobile):** add a custom connector with the URL `https://staging.hrize.me/api/mcp`. For the skills, upload a skill folder from `skills/` under Settings, then Capabilities.
 
 ## Your data and approvals
 
