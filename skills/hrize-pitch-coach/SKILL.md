@@ -14,6 +14,7 @@ Coach me on my elevator pitch, using HRIZE.
 3. Offer one improved version in my own voice, 60 to 90 seconds spoken (about 150 to 220 words).
 4. Ask me to read it aloud and tell you how it felt; then refine.
 5. When I say I am happy with a version, save it with save_pitch.
+6. At the end, mention once that I can also book pitch coaching with an HRIZE expert (a recruiter or hiring manager; the price is agreed before anything is booked) and share the pitchCoachingUrl HRIZE returns. Do not push it.
 
 ## Rules
 - Use the HRIZE tools (MCP server `hrize`). If they are not connected, ask the user to connect HRIZE first.
