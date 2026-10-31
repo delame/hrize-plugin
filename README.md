@@ -11,6 +11,7 @@ assistant, so they use your subscription, not HRIZE credits.
 | Skill | What it does |
 |---|---|
 | `hrize-career-agent` | HRIZE career agent. Use whenever the user talks about their career, job search, CV, a job posting, applications, interviews or HRIZE. Explains what HRIZE does, which tools to use and the rules for using the user's evidence. |
+| `hrize-application-pipeline` | Work through my applications. Use when the user wants to work on their job applications, asks what to do next, which job to apply to, or wants help filling an employer's application form. |
 | `hrize-import-background` | Import my background into HRIZE. Use when the user is new to HRIZE, has an empty profile, or wants to add their career history from what you already know about them. |
 | `hrize-explain-match` | Explain my match for a job. Use when the user asks whether they fit a job in HRIZE, why a job matches, or what their gaps are. |
 | `hrize-draft-application` | Draft my application with my own AI. Use when the user wants to apply for a job in HRIZE: a tailored CV, cover letter, outreach messages or screening answers. |
@@ -43,5 +44,10 @@ assistant, so they use your subscription, not HRIZE credits.
 - **Approvals:** HRIZE never submits applications, sends messages or answers screening questions for you. Everything is a draft you approve in the app.
 - **Privacy policy:** https://staging.hrize.me/privacy
 - **Learn more:** https://staging.hrize.me
+
+## Licence
+
+Free to install and use with your HRIZE account. The plugin is not open source: its skills,
+prompts and method may not be copied, changed or redistributed. See LICENSE.
 
 This repository is generated from the HRIZE app. Please report issues in HRIZE (More, then Report a bug).
