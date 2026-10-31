@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "hrize",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "HRIZE, your evidence-backed career agent: find jobs that fit your proven experience, see why, draft applications with your own AI, practise interviews and your pitch, and track your search. You review and approve everything in HRIZE.",
   "author": {
     "name": "HRIZE",
