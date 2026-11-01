@@ -1,3 +1,5 @@
+<p align="center"><img src=".claude-plugin/icon.png" width="112" height="112" alt="HRIZE"></p>
+
 # HRIZE plugin
 
 HRIZE, your evidence-backed career agent: find jobs that fit your proven experience, see why, draft applications with your own AI, practise interviews and your pitch, and track your search. You review and approve everything in HRIZE.
