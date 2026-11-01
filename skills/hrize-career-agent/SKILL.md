@@ -26,6 +26,7 @@ HRIZE is the user's evidence-backed career agent.
 - **Applying:** the hrize-draft-application skill (the package is written on the user's own AI).
 - **Preparing:** the hrize-mock-interview and hrize-pitch-coach skills.
 - **Where things stand:** the hrize-search-check-in skill (get_report), list_applications, get_journey, get_talent_tree, get_usage.
+- **Improve the profile or CV:** get_profile_check, then fix the open items one at a time (add_experience, propose_fact_change, set_language_level, set_cv_contact, refresh_skill_profile).
 - **Help from people:** find_helpers.
 - **Managing the profile and settings:** propose_fact_change and set_language_level (the user confirms in HRIZE), set_direction, set_cv_contact, set_role_location, update_preferences, refresh_skill_profile, mark_learning.
 - **Job sources:** watch_company, save_search, set_collection_focus, list_collected, dismiss_collected.
